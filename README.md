@@ -20,10 +20,10 @@
     </tr>
     <tr>
       <td align="left">
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
         <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
       </td>
       <td align="left">
@@ -34,10 +34,10 @@
         <img src="https://img.shields.io/badge/-Shadcn_UI-000000?style=flat&logo=shadcn&logoColor=white" />
       </td>
       <td align="left">
-        <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/-Django_REST-092E20?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
       </td>
     </tr>
     <tr>
